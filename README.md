@@ -2,6 +2,7 @@
 How to use:
 1 - Code your arduino to send data:
 
+<code>
 int freeRam () 
 {
 extern int __heap_start, *__brkval; 
@@ -40,3 +41,4 @@ void SendData()
     }
   }
 }
+</code>
