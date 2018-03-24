@@ -1,4 +1,4 @@
-# A Memory(RAM)/CPU(Speed)/EEPROM Debugger for Arduino.
+# A Memory(RAM)/Speed/EEPROM Debugger for Arduino.
 -=SORRY=- for my english -- I speak portuguese.
 
 How to use:<br>
