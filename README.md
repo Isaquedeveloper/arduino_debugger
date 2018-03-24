@@ -1,4 +1,6 @@
 # A Memory(RAM)/CPU(Speed)/EEPROM Debugger for Arduino.
+-=SORRY=- for my english -- I speak portuguese.
+
 How to use:<br>
 1 - Open Arduino IDE<br>
 2 - import EEPROM library using this code: <code><font color="red">#include</font><<font color="orange">EEPROM.h</font>></code><br>
